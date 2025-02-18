@@ -1,0 +1,14 @@
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.Core.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.Core.runtimeconfig.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\refint\E-Commerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.Core.genruntimeconfig.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Core\obj\Debug\net8.0\ref\E-Commerce.Core.dll

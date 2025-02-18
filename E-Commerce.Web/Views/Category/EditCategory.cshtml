@@ -1,0 +1,31 @@
+﻿@model E_Commerce.Core.DTOs.CategoryDto
+
+<div class="container border p-3">
+    <h1 class="text-white text-center">Edit Category</h1>
+    <hr />
+    <form asp-action="EditCategory" method="post">
+        <input type="hidden" asp-for="CategoryID" />
+
+        <div class="row">
+            <div class="col-2">
+                <label class="control-label">Category Name</label>
+            </div>
+            <div class="col-10">
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-5 offset-2">
+                <a asp-action="CategoryIndex" class="btn btn-primary form-control">Back to List</a>
+            </div>
+            <div class="col-5">
+                <input type="submit" value="Update Category" class="btn btn-success form-control" />
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

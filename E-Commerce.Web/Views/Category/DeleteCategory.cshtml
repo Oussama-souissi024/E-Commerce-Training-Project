@@ -1,0 +1,23 @@
+﻿@model E_Commerce.Core.DTOs.CategoryDto
+
+<div class="container border p-3">
+    <h1 class="text-white text-center">Delete Category</h1>
+
+    <hr />
+    <div class="row">
+        <div class="col-12 text-center">
+            <h3>Are you sure you want to delete the category "<strong>@Model.Name</strong>"?</h3>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-5 offset-2">
+            <a asp-action="CategoryIndex" class="btn-primary btn form-control">Back to List</a>
+        </div>
+        <div class="col-5">
+            <form asp-action="DeleteCategory" asp-route-categoryId="@Model.CategoryID" method="post">
+                <input type="submit" value="DeleteCategory" class="btn btn-danger form-control" />
+            </form>
+        </div>
+    </div>
+</div>

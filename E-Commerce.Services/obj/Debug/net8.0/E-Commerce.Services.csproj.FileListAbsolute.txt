@@ -1,0 +1,17 @@
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.deps.json
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Services.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Core.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Core.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\bin\Debug\net8.0\E-Commerce.Infrastructure.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commer.FC7EA7E1.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\refint\E-Commerce.Services.dll
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\E-Commerce.Services.pdb
+C:\Users\oussa\OneDrive\Desktop\Formation\Code\After Add Stripe\E-Commerce.Services\obj\Debug\net8.0\ref\E-Commerce.Services.dll
